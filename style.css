@@ -1,0 +1,38 @@
+body{
+    background-image: url(8fcee31d1830ddab7b2e5a7edc9167d2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color: blue;
+    font-size: 45px;
+}
+
+h3{
+    color: red;
+    font-size: 24px;
+}
+.Cuadro{
+    border: 0;
+    background-color: aqua;
+    padding: 25px;
+    width: 300px;
+    height: 140px;
+
+}
+img{
+    border: 0;
+    width: 400px;
+    height: 300px;
+}
+.button{
+    padding: 20px;
+}
+nav{
+    margin: 25px;
+    padding: 20px;
+    background-color: aqua;
+}
